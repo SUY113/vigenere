@@ -1,0 +1,4 @@
+﻿  main.cpp
+E:\HOC TAP\HK2_Nam3_2023-2024\Mã hóa ứng dụng\Vigenere\Vigenere\main.cpp(8,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\HOC TAP\HK2_Nam3_2023-2024\Mã hóa ứng dụng\Vigenere\Vigenere\main.cpp(47,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Vigenere.vcxproj -> E:\HOC TAP\HK2_Nam3_2023-2024\Mã hóa ứng dụng\Vigenere\x64\Debug\Vigenere.exe
